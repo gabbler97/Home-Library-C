@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512734180 source:c:\users\gabor\desktop\hazi\fajlkezeles_fomenu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"rekordkezeles.h"
+
+1512733380 c:\users\gabor\desktop\hazi\rekordkezeles.h
+
+1512734180 source:c:\users\gabor\desktop\hazi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"rekordkezeles.h"
+	"fajlkezeles_fomenu.h"
+
+1512733974 c:\users\gabor\desktop\hazi\fajlkezeles_fomenu.h
+
+1512733547 source:c:\users\gabor\desktop\hazi\rekordkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"fajlkezeles_fomenu.h"
+

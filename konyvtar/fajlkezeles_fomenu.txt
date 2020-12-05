@@ -1,0 +1,3 @@
+void beolvas();
+void rekordadatbazisba(Konyv *elso);
+void menukiir(void);
