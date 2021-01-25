@@ -1,8 +1,0 @@
-stages:
-- name: compile
-  steps:
-  - runScriptConfig:
-      image: gcc:latest
-      shellScript: run sh.sh
-timeout: 60
-notification: {}
